@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+e"], "command": "rand_net_pic" }
+]
